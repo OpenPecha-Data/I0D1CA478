@@ -1,0 +1,104 @@
+id: d323ebc6925542fda90bce29c35adf8b
+annotation_type: Segment
+revision: '00001'
+annotations:
+  cc56ba5e382547dda9c57e9d678a7ebf:
+    span:
+      start: 0
+      end: 229
+  736ca65b3af04cd6a92c9ea0dcabcd76:
+    span:
+      start: 230
+      end: 305
+  92551620320a41869168e8e97cd5de04:
+    span:
+      start: 306
+      end: 389
+  4835618762f54189a290f5b45fbe4adf:
+    span:
+      start: 390
+      end: 430
+  de9dc42f0cd04b23bfaf696630e17d15:
+    span:
+      start: 431
+      end: 466
+  f3994c80a7d246239dbc0884ba8dc189:
+    span:
+      start: 467
+      end: 567
+  134f45fd2fb141f2a7e82ba4547ae1a5:
+    span:
+      start: 568
+      end: 627
+  9a9161e8276c4fa7b0770003565f648f:
+    span:
+      start: 628
+      end: 680
+  44c1c423177749a1abdecc70aef8d4c8:
+    span:
+      start: 681
+      end: 727
+  4dbbeaae822f495b84e1479e3d7617f1:
+    span:
+      start: 728
+      end: 785
+  d04414e9ced24a7db65186e897eb47dd:
+    span:
+      start: 786
+      end: 835
+  42e2df027cf5434791be8d10b4a40b05:
+    span:
+      start: 836
+      end: 895
+  5d276e0db45740b6931fe111fdc680f1:
+    span:
+      start: 896
+      end: 941
+  745503ec514c411489f49a3b08b5d890:
+    span:
+      start: 942
+      end: 1051
+  6995b6b1eb124c6bac3573329c42a9ee:
+    span:
+      start: 1052
+      end: 1122
+  d8fc07987e264f808ec82631e27df526:
+    span:
+      start: 1123
+      end: 1181
+  272903ca556345eab90faf0882a2e9a8:
+    span:
+      start: 1182
+      end: 1239
+  ee1e3cdc68214f86b530666e5c6d2081:
+    span:
+      start: 1240
+      end: 1288
+  a07faab967fb48d380bd6cbe4fef97a1:
+    span:
+      start: 1289
+      end: 1338
+  73882bc99203472da129b63a87102b31:
+    span:
+      start: 1339
+      end: 1390
+  97c5b9c934484bc193599ff3773fc83d:
+    span:
+      start: 1391
+      end: 1445
+  6fad310dc20f4f038b52b02d01da3afd:
+    span:
+      start: 1446
+      end: 1546
+  cf15fab88d8d407584f41d7c98bc0713:
+    span:
+      start: 1547
+      end: 1650
+  a678b9072d3943a68307065c73948229:
+    span:
+      start: 1651
+      end: 1713
+  a93fe6af642c4366af5fbd3e0ff3fbf4:
+    span:
+      start: 1714
+      end: 1782

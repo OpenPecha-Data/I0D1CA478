@@ -1,0 +1,18 @@
+id: I0D1CA478
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:32:36.415300
+last_modified: 2023-01-04 11:32:36.415307
+source_metadata:
+  collections:
+  - Chokgyur Dechen Lingpa
+  - Works of Tibetan Masters
+bases:
+  0B3C:
+    title: 'Pearl Droplets of Blessings: A Prayer to the Guru Who Embodies All'
+    base_file: 0B3C.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
